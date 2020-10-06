@@ -1,0 +1,39 @@
+{
+  "name": "@metabootcamp/lesson-template",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "src/index.ts",
+  "directories": {
+    "test": "test",
+    "doc": "docs",
+    "lib": "build",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MetaBootcamp/metabootcamp-lesson-template.git"
+  },
+  "keywords": [
+    "metabootcamp",
+    "lesson-template"
+  ],
+  "author": {
+    "email": "tjgarlick@gmail.com",
+    "name": "Tyler Garlick"
+  },
+  "contributors": [
+    {
+      "email": "tjgarlick@gmail.com",
+      "name": "Tyler Garlick"
+    }
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MetaBootcamp/metabootcamp-lesson-template/issues"
+  },
+  "homepage": "https://github.com/MetaBootcamp/metabootcamp-lesson-template#readme"
+}

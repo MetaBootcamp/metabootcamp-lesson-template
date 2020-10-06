@@ -1,2 +1,1 @@
-# metabootcamp-lesson-template
-MetaBootcamp Lesson Template
+# MetaBootcamp Lesson Template
